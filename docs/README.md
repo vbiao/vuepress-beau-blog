@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /blog.png
 heroText: 持续学习 · 无限进步
 tagline: 「个人记录 · 欢迎访问」
 actionText: 开始阅读
