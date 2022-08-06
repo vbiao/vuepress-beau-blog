@@ -12,5 +12,5 @@ features:
   details: 记录一些开发环境配置，经典异常，技术要点等
 - title: 生活笔记
   details: 后续可能会记录一些生活上的见闻与思考
-footer: MIT Licensed | Copyright © 2022-present Evan You
+footer: 路漫漫其修远兮，吾将上下而求索 | Copyright © 2022-present
 ---
