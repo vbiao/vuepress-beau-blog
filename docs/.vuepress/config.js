@@ -4,7 +4,8 @@ module.exports = {
     themeConfig: {
         nav: [
           { text: '主页', link: '/' },
-          { text: '博客文章', link: '/guide/' }
+          { text: '博客文章', link: '/guide/blog' },
+          { text: '个人记录', link: '/guide/self' }
         ]
       }
   }
