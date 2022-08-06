@@ -4,7 +4,7 @@ heroImage: /blog.png
 heroText: 持续学习 · 无限进步
 tagline: 「个人记录 · 欢迎访问」
 actionText: 开始阅读
-actionLink: /guide/
+actionLink: /guide/blog/
 features:
 - title: 博客文章
   details: 转载一些个人认为不错的文章；可能也会自己写(手动滑稽🤪)
