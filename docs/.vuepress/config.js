@@ -1,3 +1,5 @@
+
+
 module.exports = {
     title: 'WAY',
     description: '个人记录',
@@ -5,6 +7,7 @@ module.exports = {
         nav: [
           { text: '主页', link: '/' },
           { text: '博客文章', link: '/guide/blog' },
+          { text: '网站记录', link: '/guide/site' },
           { text: '个人记录', link: '/guide/self' }
         ],
         sidebar: 'auto',
